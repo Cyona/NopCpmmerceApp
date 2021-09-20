@@ -26,7 +26,7 @@ class Test_AddCustomer:
         addcust.clickOnCustomersMenuItem()
         addcust.clickOnAddnew()
 
-        addcust.setEmail('sampe1111@gmail.com')
+        addcust.setEmail('samples111@gmail.com')
         addcust.setPassword('Password123#')
         addcust.setFirstName('David')
         addcust.setLastName('Lords')
