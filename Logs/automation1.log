@@ -1,0 +1,26 @@
+20/09/2021 02:39:37 PM: INFO: ++++ login success +++++++
+20/09/2021 02:40:03 PM: INFO: ++++ customer added successfully +++++++
+20/09/2021 02:40:03 PM: INFO: ******* Test case test_addcustomer passed ******
+20/09/2021 02:40:03 PM: INFO: ******* Ending Add customer test **********
+20/09/2021 02:40:04 PM: INFO: ******* verifying login test ********
+20/09/2021 02:40:15 PM: INFO: ******* Login test success ********
+20/09/2021 02:43:11 PM: INFO: ++++ login success +++++++
+20/09/2021 02:43:37 PM: INFO: ++++ customer added successfully +++++++
+20/09/2021 02:43:38 PM: ERROR: ******* Test case test_addcustomer failed ******
+20/09/2021 02:43:39 PM: INFO: ******* verifying login test ********
+20/09/2021 02:43:50 PM: INFO: ******* Login test success ********
+20/09/2021 02:52:10 PM: INFO: ++++ login success +++++++
+20/09/2021 02:52:38 PM: INFO: ++++ customer added successfully +++++++
+20/09/2021 02:52:40 PM: ERROR: ******* Test case test_addcustomer failed ******
+20/09/2021 02:52:42 PM: INFO: ******* verifying login test ********
+20/09/2021 02:52:53 PM: INFO: ******* Login test success ********
+20/09/2021 02:56:00 PM: INFO: ++++ login success +++++++
+20/09/2021 02:56:29 PM: INFO: ++++ customer added successfully +++++++
+20/09/2021 02:56:29 PM: ERROR: ******* Test case test_addcustomer failed ******
+20/09/2021 02:56:31 PM: INFO: ******* verifying login test ********
+20/09/2021 02:56:41 PM: INFO: ******* Login test success ********
+20/09/2021 02:56:57 PM: INFO: ++++ login success +++++++
+20/09/2021 02:57:24 PM: INFO: ++++ customer added successfully +++++++
+20/09/2021 02:57:24 PM: ERROR: ******* Test case test_addcustomer failed ******
+20/09/2021 02:57:26 PM: INFO: ******* verifying login test ********
+20/09/2021 02:57:33 PM: INFO: ******* Login test success ********
